@@ -1,4 +1,4 @@
-# Convolutional Deep Neural Network for Digit Classification
+#EX 3 Convolutional Deep Neural Network for Digit Classification
 
 ## AIM
 
@@ -100,7 +100,7 @@ X_test_scaled = X_test_scaled.reshape(-1,28,28,1)
 
 Name: DEEPIKA S
 
-Register Number: 21222223028
+Register Number: 212222230028
 
 model = keras.Sequential()
 model.add(layers.Input(shape=(28,28,1)))
